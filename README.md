@@ -3,4 +3,4 @@ Elaborar un programa en consola Java que convierta un número entero en un rango
 
 Erick Herrera Gonzalez   ushiromiya@gmail.com
 
-Para ejecutar el programa se debe abrir con el IDE Netbeans y de ahi ejecutar el proyecto
+Para ejecutar el programa se debe importar la carpta del proyecto al IDE Netbeans y de ahi ejecutar el proyecto
